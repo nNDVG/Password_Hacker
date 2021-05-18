@@ -5,12 +5,12 @@
 
 ## Used modules:
 
-    datetime
-    string
-    urllib
-    argparse
-    json
-    socket
+    Datetime
+    String
+    Urllib
+    Argparse
+    Json
+    Socket
 
 ## Run
  - It should be started from terminal by: python password_hacker.py remote_host remote_port
@@ -18,7 +18,6 @@
 ## Author
 
     https://github.com/nNDVG/
-    https://hub.docker.com/u/ndvg/
 
 ## Contacts
 
